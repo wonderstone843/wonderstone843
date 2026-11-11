@@ -1,8 +1,8 @@
 # Joshua Penn — Agentic AI Engineer
 
-Columbia, SC · [LinkedIn](https://linkedin.com/in/joshua-penn-019418154) · wpenn1017@gmail.com
+Columbia, SC · [LinkedIn](https://linkedin.com/in/joshua-penn-019418154) · wpenn1017@gmail.com · [Resume (PDF)](Joshua_Penn_Resume.pdf)
 
-I build **production agentic AI systems** — autonomous multi-agent pipelines, RAG retrieval, and human-in-the-loop QA — end to end, and I build the **evals that say whether any of it actually works**. Self-taught, and I came to AI engineering after **9 years driving OTR freight across 48 states**, where reliability under pressure was never optional.
+I build **production agentic AI systems** — autonomous multi-agent pipelines, RAG retrieval, and human-in-the-loop QA — end to end, and I build the **evals that say whether any of it actually works**. I completed Oracle's structured training courses and passed proctored certification exams to earn the Oracle Cloud Infrastructure 2025 Certified Generative AI Professional and AI Foundations Associate certifications, alongside hands-on Python and AI systems work since 2024. I came to AI engineering after **9 years driving OTR freight across 48 states**, where reliability under pressure was never optional.
 
 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** &nbsp;·&nbsp; **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
 
@@ -27,4 +27,4 @@ I build **production agentic AI systems** — autonomous multi-agent pipelines, 
 Python · FastAPI · Pydantic · CrewAI · LangGraph · ChromaDB · **MCP servers** · **LLM evals / LLM-as-judge / judge validation** · Claude Code · OpenAI / Anthropic / Google GenAI / Replicate / Vertex AI · Git · GitHub Actions · FFmpeg
 
 ---
-*Open to Agentic AI / RAG / LLM engineering roles — remote, or Orlando / Charlotte / Dallas.*
+*Open to Agentic AI / RAG / LLM engineering roles — remote, or Charlotte NC / Florida / Dallas TX.*
